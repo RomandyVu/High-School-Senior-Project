@@ -1,0 +1,2 @@
+D:\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
